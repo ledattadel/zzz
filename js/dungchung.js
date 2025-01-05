@@ -606,7 +606,7 @@ function addFooter() {
 
     <!-- ============== Footer ============= -->
     <div class="copy-right">
-        <p><a href="index.html">Mai Mobile Shop</a> - All rights reserved © 2024
+        <p><a href="index.html">LUCKY SHOP</a> - All rights reserved © 2025
     </div>`);
 }
 
@@ -714,7 +714,7 @@ function addPlc() {
                 <li>Lỗi đổi tại nhà trong 1 ngày</li>
                 <li>Hỗ trợ suốt thời gian sử dụng.
                     <br>Hotline:
-                    <a href="tel:12345678" style="color: #288ad6;">12345678</a>
+                    <a href="tel:0971555838" style="color: #288ad6;">0971555838</a>
                 </li>
             </ul>
         </section>
